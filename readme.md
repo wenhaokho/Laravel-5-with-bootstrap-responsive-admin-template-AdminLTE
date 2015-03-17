@@ -1,4 +1,4 @@
-This project tutorial [Codelution.com](http://codelution.com/development/web/integrating-bootstrap-framework-with-laravel-5/)
+This project tutorial [Codelution.com](http://codelution.com/development/web/integrating-bootstrap-admin-template-with-laravel-5/)
 
 ## Laravel PHP Framework
 
