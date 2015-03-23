@@ -19,3 +19,6 @@ Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
+
+Route::get('/reporting', ['uses' =>'ReportController@index', 'as' => 'Report']);
+Route::post('/reporting', ['uses' =>'ReportController@post']);

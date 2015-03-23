@@ -6,10 +6,12 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*"
+
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",
-		"phpspec/phpspec": "~2.1"
+		"phpspec/phpspec": "~2.1",
+		"cossou/jasperphp": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
